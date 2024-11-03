@@ -1,0 +1,24 @@
+.contJabatan {
+    top: 100px;
+    right: 100px;
+    width: 70%;
+}
+.slug li {
+    list-style: none;
+}
+
+.formWrapper {
+    max-height: 400px;
+    overflow-y: auto;
+    padding-bottom: 50px;
+}
+
+.areaInput {
+    height: 100px;
+    width: 100%;
+}
+
+.button {
+    width: 80px;
+    background-color: rgb(4, 255, 4);
+}

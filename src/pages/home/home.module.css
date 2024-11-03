@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.containerHome {
+    width: 100%;
+    height: 100vh;
+}
+
+.homeContent {
+    margin-top:65px;
+    width: 100%;
+    height: 40%;
+}
+
+.dashboardBg {
+    background-color: crimson;
+    width: 100%;
+    height: 240px;
+    position: absolute;
+    z-index: -1;
+}
+
+.wrap {
+    margin-left: 260px;
+}
+
+
+.cardsDashboardUl {
+    margin-left: 100px;
+    width: 100%;
+    height: 400px;
+    /* background-color: yellow; */
+}
+
+.cardsLi {
+    top: 220px;
+    width: 220px;
+    height: 120px;
+    z-index: 9;
+}
+
+/* ICON */
+
+.customSpan {
+    background-color: lightskyblue;
+    color: white;
+    min-width: 70px;
+    height: 50px;
+    display: block;
+    font-size: 2rem;
+}
+/* END */
